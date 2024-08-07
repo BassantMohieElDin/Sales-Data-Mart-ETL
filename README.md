@@ -47,6 +47,6 @@
   ![Screenshot (126)](https://github.com/user-attachments/assets/b40d10b9-47e9-4c48-a05b-c3dab2cb50f8)
 
   ![Screenshot (119)](https://github.com/user-attachments/assets/673bb145-42af-44c0-9c16-3bdb178e0a16)
-
+# 4. Fact Full and Incremental Load
 
 
