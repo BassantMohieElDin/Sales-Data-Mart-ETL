@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Sales Data Mart ETL", "Sales Data Mart ETL.dtproj", "{7C877AC3-6869-4623-B256-275E6C860656}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{C765015C-D22B-4BBA-B054-E2D6B78443FD}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\dim customer.sql = C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\dim customer.sql
+		C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\dim date.sql = C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\dim date.sql
+		C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\dim product.sql = C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\dim product.sql
+		C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\dim territory.sql = C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\dim territory.sql
+		C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\fact sales.sql = C:\Users\bassa\OneDrive\Documents\SQL Server Management Studio\fact sales.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C877AC3-6869-4623-B256-275E6C860656}.Development|Default.ActiveCfg = Development
+		{7C877AC3-6869-4623-B256-275E6C860656}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA53967-2AF0-4C8A-A858-9C08F5D296C8}
+	EndGlobalSection
+EndGlobal

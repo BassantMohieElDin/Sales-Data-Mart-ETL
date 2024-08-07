@@ -1,0 +1,10 @@
+USE master
+GO
+
+IF DB_ID('AdventureWorksDWH2014') IS NOT NULL
+	DROP DATABASE AdventureWorksDWH2014;
+
+CREATE DATABASE AdventureWorksDWH2014;
+
+
+
